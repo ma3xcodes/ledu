@@ -1,0 +1,13 @@
+{
+    "name": "Back",
+    "alias": "back",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Back\\Providers\\BackServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
